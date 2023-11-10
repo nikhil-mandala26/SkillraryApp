@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class AddNewCategoryPage {
 
+	//Changing for clone 
 	//Declaration
 	@FindBy(xpath = "//b[text()='Add New Category']")
 	private WebElement pageHeader;
